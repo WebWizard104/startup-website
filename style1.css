@@ -1,0 +1,40 @@
+body,html{
+     background: url(header.jpg) no-repeat center center fixed ;
+     background-size: cover ;
+     height: 100% ;
+     width: 100%;
+}
+h1{
+    font-weight: 700;
+    font-size: 40px;
+    font-family: dancing script ;
+    color:aqua;
+    border-bottom: 2px solid grey;
+  
+   
+    
+}
+
+.buffer{
+    height: 200px;
+}
+hr{
+    border-width: 4px;
+    border-color: darkorange;
+    max-width: 65px;
+    margin: auto;
+}
+.btn-xl{
+    padding: 1rem 2rem;
+    border-radius: 300px;
+    background-color: darkorange;
+    margin: 14px;
+    border-color: darkorange;
+    color: black;
+    
+}
+.btn-xl:hover{
+    background-color: hsl(23, 86%, 42%) ;
+    border-color: hsl(23, 86%, 42%);
+    border-width: 4px;
+}
